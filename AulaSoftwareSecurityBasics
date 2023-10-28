@@ -77,7 +77,31 @@ Information Leaks:
 - Recoperação, para o ataque, analisa e repara o dano feito, continuando com o funcionamento correto mesmo que o ataque tenha sido efetuado com sucesso;
 
 ## Controls
-- Preventive Controls, impedem que um ataque seja bem sucedido;
+Preventive Controls, impedem que um ataque seja bem sucedido;
+- Encryption, assegura a confidencialidade e integridade da informação;
+- SW/Program Controls, previne ataques;
+- Development Controls, assegura qualidade standards, or exemplo, penetration testing;
+
+## Hw Controls
+- Physical Security, previne o acesso físico não autorizado;
+- Network Security, previne o acesso não autorizado á rede;
+- OS Security, previne o acesso não autorizado ao sistema operativo;
+- Application Security, previne o acesso não autorizado á aplicação;
+
+## Politicas e Procedimentos
+- Policies, define o que é permitido e o que não é permitido;
+- Procedures, define como as políticas são implementadas;
+Por exemplo, mudança de palavras passe a cada 3 meses;
+
+##Controlos Fisicos
+- Controlos de acesso, previne o acesso não autorizado a um edificio;
+Por exemplo, cartões de acesso;
+
+## Programas de controlo incluem:
+- Programa de controlos internos, partes do programa que assegura as restrinções de segurança;
+- Sistemas operativos e sistemas de controlo de rede, estabelece limitações tanto na rede como no sistema operativo de modo a proteger os utilizadores de todos os utilizadores;
+- Programas de controlo independentes, aplicações, como por exemplo, antivirus, password checkers, etc; 
+
 
 
 
